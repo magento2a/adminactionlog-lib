@@ -5,7 +5,7 @@
   "description": "Convert text admin action log",
   "keywords": ["admin", "log","action"],
   "homepage": "https://github.com/magento2a/adminactionlog-lib",
-  "license": "BSS",
+  "license": "MIT",
   "autoload": {
     "psr-0": {
       "Bss\\AdminActionLog\\Convert": "src/"
