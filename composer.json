@@ -6,8 +6,16 @@
   "keywords": ["admin", "log","action"],
   "homepage": "https://github.com/magento2a/adminactionlog-lib",
   "license": "MIT",
+  "authors": [
+      {
+          "name": "Jordi Boggiano",
+          "email": "j.boggiano@seld.be",
+          "homepage": "https://bsscommerce.com/",
+          "role": "Developer"
+      }
+  ],
   "autoload": {
-    "psr-0": {
+    "psr-4": {
       "Bss\\AdminActionLog\\Convert": "src/"
     }
   }
