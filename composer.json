@@ -3,12 +3,9 @@
   "type": "library",
   "version": "1.0.0",
   "description": "Convert text admin action log",
-  "keywords": ["email", "api","mailchimp"],
+  "keywords": ["admin", "log","action"],
   "homepage": "https://github.com/magento2a/adminactionlog-lib",
-  "license": "MIT",
-  "require": {
-    "php": ">=5.2.0"
-  },
+  "license": "BSS",
   "autoload": {
     "psr-0": {
       "Bss\\AdminActionLog\\Convert": "src/"
