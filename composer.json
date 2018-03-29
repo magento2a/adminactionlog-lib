@@ -1,5 +1,5 @@
 {
-  "name": "bsscommerce/adminactionlog-lib",
+  "name": "bssbc/adminactionlog-lib",
   "type": "library",
   "version": "1.0.0",
   "description": "Convert text admin action log",
