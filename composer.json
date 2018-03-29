@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Bss\\AdminActionLog\\Convert": "src/"
+      "Bss\\AdminActionLog\\Convert\\": "src/"
     }
   }
 }
